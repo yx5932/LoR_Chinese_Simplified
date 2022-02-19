@@ -64,5 +64,7 @@
 
 ## 【参考内容】
 1.帖子：【符文之地传奇】1.1版本现已实装（https://www.iyingdi.com/web/article/search/102263）
+
 2.帖子：【汉化教程】自动替换汉化文件的python脚本（https://www.iyingdi.com/web/bbspost/detail/2330229）
+
 3.视频：Lor符文之地 1.9最新版本新的简体中文汉化教程-Lol☆英雄联盟（https://www.bilibili.com/video/BV1Z54y1C7Uy）
